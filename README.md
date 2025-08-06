@@ -21,13 +21,14 @@ Ideal para fins de estudo, portfólio e prática de front-end básico.
 
 ##  Tecnologias
 
-- **HTML5** – 
-- **CSS3** – 
+- **HTML5**  
+- **CSS3**  
 
 ---
 
 ##  Estrutura de Pastas
 
+```
 Bikcraft/
 ├── index.html
 ├── bicicletas.html
@@ -36,11 +37,13 @@ Bikcraft/
 ├── seguros.html
 ├── termos.html
 ├── css/
-│ └── estilo.css
-├── img/
-│ └── imagens do projeto
+│   └── estilo.css
+└── img/
+    └── imagens do projeto
+```
 
-✅ Status do Projeto
-Concluído – versão estática pronta
-Em aberto – integração com JS e melhorias futuras
+## ✅ Status do Projeto
+
+☑️ Concluído – versão estática pronta  
+🔄 Em aberto – integração com JS e melhorias futuras
 
